@@ -7,7 +7,7 @@ env/
 ENV/
 
 # Downloaded songs
-Songs/
+Downloads/spotifytest
 
 # Python
 __pycache__/
